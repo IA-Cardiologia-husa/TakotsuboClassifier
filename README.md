@@ -23,18 +23,18 @@ Data ingestion can be modified in the file *user_data_utils.py*, ML algorithms c
 
 The variables used in the model are the following ones:
 
-'1P_Total_Mediana_Yodo_80%': Median of the iodine density of the myocardium in the first pass perfusion CT acquisition, discarding the inner and outer 10% of the voxels.
-'1P_Total_Volumen': Volume of the myocardium as measured in the first pass perfusion CT acquisition
-'1P_Gradiente_Apical_Basal': Apex-to-base iodine density gradient in the first pass perfusion CT acquisition (i.e. median of iodine density in the apical myocardium segments minus median of the iodine density in the basal myocardium segments)
-'1P_Gradiente_Medio_Basal': Mid-cavity-to-base iodine density gradient in the first pass perfusion CT acquisition
-'1P_Aortic_Blood_Pool': Median of the iodine density of the blood pool of the aorta in the first pass perfusion CT acquisition (For this, we considered only aorta voxels within 20% of the long axis length away from the aortic valve, and then only the inner 50% of voxels)
-'PCAT_LAD': Average Pericoronary Adipose Tissue Attenuation in the Left Anterior Descent coronary artery as measured by Philips Healthcare *PCAT research tool*
-'PCAT_LCx': Average Pericoronary Adipose Tissue Attenuation in the Left Circumflex coronary artery as measured by Philips Healthcare *PCAT research tool*
-'PCAT_RCA': Average Pericoronary Adipose Tissue Attenuation in the Right coronary artery as measured by Philips Healthcare *PCAT research tool*
-'RT_Total_Mediana_Yodo_80%': Median of the iodine density of the myocardium in the late enhancement CT acquisition, discarding the inner and outer 10% of the voxels.
-'RT_Total_Volumen': Volume of the myocardium as measured in the late enhancement CT acquisition
-'RT_Gradiente_Apical_Basal'': Apex-to-base iodine density gradient in the late enhancement CT acquisition
-'RT_Gradiente_Medio_Basal': Mid-cavity-to-base iodine density gradient in the late enhancement CT acquisition
-'RT_Aortic_Blood_Pool': Median of the iodine density of the blood pool of the aorta in the late enhancement CT acquisition
-'PCAT_Total': Average Pericoronary Adipose Tissue Attenuation of the whole coronary tree
-'ECV_CT_Total': Median of the Extracellular volume of the myocardium, measured in the late enhancement CT acquisition
+- '1P_Total_Mediana_Yodo_80%': Median of the iodine density of the myocardium in the first pass perfusion CT acquisition, discarding the inner and outer 10% of the voxels.
+- '1P_Total_Volumen': Volume of the myocardium as measured in the first pass perfusion CT acquisition
+- '1P_Gradiente_Apical_Basal': Apex-to-base iodine density gradient in the first pass perfusion CT acquisition (i.e. median of iodine density in the apical myocardium segments minus median of the iodine density in the basal myocardium segments)
+- '1P_Gradiente_Medio_Basal': Mid-cavity-to-base iodine density gradient in the first pass perfusion CT acquisition
+- '1P_Aortic_Blood_Pool': Median of the iodine density of the blood pool of the aorta in the first pass perfusion CT acquisition (For this, we considered only aorta voxels within 20% of the long axis length away from the aortic valve, and then only the inner 50% of voxels)
+- 'PCAT_LAD': Average Pericoronary Adipose Tissue Attenuation in the Left Anterior Descent coronary artery as measured by Philips Healthcare *PCAT research tool*
+- 'PCAT_LCx': Average Pericoronary Adipose Tissue Attenuation in the Left Circumflex coronary artery as measured by Philips Healthcare *PCAT research tool*
+- 'PCAT_RCA': Average Pericoronary Adipose Tissue Attenuation in the Right coronary artery as measured by Philips Healthcare *PCAT research tool*
+- 'RT_Total_Mediana_Yodo_80%': Median of the iodine density of the myocardium in the late enhancement CT acquisition, discarding the inner and outer 10% of the voxels.
+- 'RT_Total_Volumen': Volume of the myocardium as measured in the late enhancement CT acquisition
+- 'RT_Gradiente_Apical_Basal'': Apex-to-base iodine density gradient in the late enhancement CT acquisition
+- 'RT_Gradiente_Medio_Basal': Mid-cavity-to-base iodine density gradient in the late enhancement CT acquisition
+- 'RT_Aortic_Blood_Pool': Median of the iodine density of the blood pool of the aorta in the late enhancement CT acquisition
+- 'PCAT_Total': Average Pericoronary Adipose Tissue Attenuation of the whole coronary tree
+- 'ECV_CT_Total': Median of the Extracellular volume of the myocardium, measured in the late enhancement CT acquisition
