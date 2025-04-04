@@ -1,0 +1,50 @@
+Model name: RF
+aucroc: 0.927649449316116
+aucroc stderr: 0.03681094859973377
+aucroc Confidence Interval (95%): 0.8523626060849172-1.0029362925473149
+aucroc_pooled: 0.927649449316116
+aucroc_pooled stderr: 0.03681094859973377
+aucroc_pooled Confidence Interval (95%): 0.8523626060849172-1.0029362925473149
+aucpr: 0.9466772879921013
+aucpr stderr: 0.03218417636222971
+aucpr Confidence Interval (95%): 0.8808532564884424-1.0125013194957602
+
+Threshold: 0.411 Optimum for accuracy
+TP:52.9 FP:12.0 TN:29.8 FN:5.3
+Sensitivity:90.9 Specificity:71.3 Precision:81.5 NPRv:85.0
+
+Threshold: 0.593 Optimum for single point AUC
+TP:47.1 FP:7.3 TN:34.5 FN:11.1
+Sensitivity:80.9 Specificity:82.6 Precision:86.6 NPRv:75.7
+
+Optimum for double point AUC
+Threshold: 0.312
+TP:54.7 FP:14.5 TN:27.3 FN:3.5
+Sensitivity:94.1 Specificity:65.2 Precision:79.0 NPRv:88.8
+Threshold: 0.755
+TP:36.9 FP:2.4 TN:39.5 FN:21.3
+Sensitivity:63.4 Specificity:94.3 Precision:94.0 NPRv:65.0
+
+Optimum for triple point AUC
+Threshold: 0.157
+TP:58.0 FP:21.6 TN:20.2 FN:0.2
+Sensitivity:99.7 Specificity:48.3 Precision:72.8 NPRv:99.1
+Threshold: 0.411
+TP:52.9 FP:12.0 TN:29.8 FN:5.3
+Sensitivity:90.9 Specificity:71.3 Precision:81.5 NPRv:85.0
+Threshold: 0.755
+TP:36.9 FP:2.4 TN:39.5 FN:21.3
+Sensitivity:63.4 Specificity:94.3 Precision:94.0 NPRv:65.0
+
+Threshold: 0.699 Optimum for f0.5
+TP:41.6 FP:4.4 TN:37.5 FN:16.5
+Sensitivity:71.6 Specificity:89.6 Precision:90.5 NPRv:69.4
+
+Threshold: 0.346 Optimum for f1
+TP:54.2 FP:13.3 TN:28.5 FN:4.0
+Sensitivity:93.1 Specificity:68.3 Precision:80.3 NPRv:87.7
+
+Threshold: 0.147 Optimum for f2
+TP:58.0 FP:22.2 TN:19.6 FN:0.2
+Sensitivity:99.7 Specificity:47.0 Precision:72.3 NPRv:99.1
+

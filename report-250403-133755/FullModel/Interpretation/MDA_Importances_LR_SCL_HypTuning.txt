@@ -1,0 +1,16 @@
+Feature                        MDA_norm   MDA        Variation  z-score   
+1P_Total_Volumen               1.0000e+00 1.6096e-01 1.0167e-01 1.5831e+00
+1P_Gradiente_Apical_Basal      2.2397e-01 3.6050e-02 4.6752e-02 7.7109e-01
+ECV_CT_Total                   2.0737e-01 3.3377e-02 5.5790e-02 5.9826e-01
+RT_Total_Volumen               1.3456e-01 2.1658e-02 5.0327e-02 4.3035e-01
+PCAT_LCx                       5.1830e-02 8.3424e-03 2.9333e-02 2.8440e-01
+PCAT_LAD                       4.8421e-02 7.7937e-03 2.6238e-02 2.9704e-01
+PCAT_Total                     4.0125e-02 6.4584e-03 1.9590e-02 3.2968e-01
+RT_Gradiente_Medio_Basal       2.2991e-02 3.7005e-03 1.6842e-02 2.1972e-01
+RT_Gradiente_Apical_Basal      8.7500e-03 1.4084e-03 1.4058e-02 1.0019e-01
+PCAT_RCA                       8.2791e-03 1.3326e-03 2.3876e-02 5.5813e-02
+1P_Aortic_Blood_Pool           -2.3071e-03 -3.7135e-04 2.5326e-02 -1.4663e-02
+1P_Total_Mediana_Yodo_80%      -9.0115e-03 -1.4505e-03 1.4548e-02 -9.9700e-02
+RT_Total_Mediana_Yodo_80%      -1.0406e-02 -1.6749e-03 1.3620e-02 -1.2297e-01
+RT_Aortic_Blood_Pool           -2.4991e-02 -4.0225e-03 1.5193e-02 -2.6476e-01
+1P_Gradiente_Medio_Basal       -4.4579e-02 -7.1754e-03 1.8230e-02 -3.9359e-01
