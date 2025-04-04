@@ -1,5 +1,0 @@
-Feature                        MDA_norm   MDA        Variation  z-score   
-1P_Total_Volumen               1.0000e+00 1.6884e-01 1.0526e-01 1.6040e+00
-1P_Gradiente_Apical_Basal      2.6157e-01 4.4164e-02 5.0396e-02 8.7635e-01
-PCAT_Total                     2.5904e-01 4.3736e-02 5.1802e-02 8.4430e-01
-ECV_CT_Total                   2.2177e-01 3.7443e-02 5.7201e-02 6.5458e-01
